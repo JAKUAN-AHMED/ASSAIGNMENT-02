@@ -67,6 +67,7 @@ nav a{
     width: 1170px;
     border-radius: 16px;
     margin: 50px 130px;
+    
 }
 .banner-head{
     color: #FFF;
@@ -89,9 +90,9 @@ nav a{
 .banner-item{
     display:flex;
     gap:20px;
-    margin-left: 100px;
+    padding-left: 200px;
 }
-.banner-item > button{
+.banner-item > button,select{
     display: flex;
     align-items:center ;
     width: 174px;
