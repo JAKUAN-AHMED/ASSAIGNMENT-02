@@ -497,11 +497,11 @@ footer h2
         margin-left: 15px;
         margin-bottom: 50px;
         flex-direction: column;
+        gap: 20px;
+        padding: 10px;
     }
     .input-head{
         width: 320px;
-
-
     }
     .input-tag > input {
         border-radius: 8px;
