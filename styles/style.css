@@ -334,7 +334,11 @@ nav a{
     text-align: center;
     margin-bottom: -30px;
 }
-
+footer h2
+{
+    font-size: 35px;
+    font-weight: 700px;
+}
 
 /* hide  */
 .hide{
